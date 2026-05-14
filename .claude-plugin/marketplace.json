@@ -12,7 +12,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Breakstep-Studios/claude-unity-cloud-build-plugin.git",
-        "ref": "main"
+        "ref": "master"
       },
       "homepage": "https://github.com/Breakstep-Studios/claude-unity-cloud-build-plugin"
     },
