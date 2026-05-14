@@ -1,0 +1,30 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "breakstep-studios",
+  "description": "Breakstep Studios' Claude Code plugins.",
+  "owner": {
+    "name": "Breakstep Studios"
+  },
+  "plugins": [
+    {
+      "name": "unity-cloud-build",
+      "description": "Interact with the Unity Cloud Build API — list targets, update configs, trigger builds, and more.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Breakstep-Studios/claude-unity-cloud-build-plugin.git",
+        "ref": "main"
+      },
+      "homepage": "https://github.com/Breakstep-Studios/claude-unity-cloud-build-plugin"
+    },
+    {
+      "name": "read-clickup-ticket",
+      "description": "Pull the ClickUp ticket associated with the current git branch into context — description, checklists, comments, and activity.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Breakstep-Studios/claude-read-clickup-ticket-plugin.git",
+        "ref": "main"
+      },
+      "homepage": "https://github.com/Breakstep-Studios/claude-read-clickup-ticket-plugin"
+    }
+  ]
+}
