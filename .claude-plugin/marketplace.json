@@ -35,6 +35,16 @@
         "ref": "main"
       },
       "homepage": "https://github.com/Breakstep-Studios/claude-name-session-from-ticket-plugin"
+    },
+    {
+      "name": "create-clickup-checklists",
+      "description": "Create ClickUp checklists and checklist items through the ClickUp REST API, which the ClickUp MCP can't do.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Breakstep-Studios/claude-create-clickup-checklists-plugin.git",
+        "ref": "main"
+      },
+      "homepage": "https://github.com/Breakstep-Studios/claude-create-clickup-checklists-plugin"
     }
   ]
 }

@@ -16,6 +16,7 @@ Then install any plugin from it:
 /plugin install unity-cloud-build@breakstep-studios
 /plugin install read-clickup-ticket@breakstep-studios
 /plugin install name-session-from-ticket@breakstep-studios
+/plugin install create-clickup-checklists@breakstep-studios
 ```
 
 ## Plugins
@@ -25,3 +26,4 @@ Then install any plugin from it:
 | [unity-cloud-build](https://github.com/Breakstep-Studios/claude-unity-cloud-build-plugin) | Interact with the Unity Cloud Build API — list targets, update configs, trigger builds. |
 | [read-clickup-ticket](https://github.com/Breakstep-Studios/claude-read-clickup-ticket-plugin) | Pull the ClickUp ticket associated with the current git branch into context. |
 | [name-session-from-ticket](https://github.com/Breakstep-Studios/claude-name-session-from-ticket-plugin) | Rename the Claude Code session to match the ClickUp ticket for the current git branch. |
+| [create-clickup-checklists](https://github.com/Breakstep-Studios/claude-create-clickup-checklists-plugin) | Create ClickUp checklists and checklist items through the ClickUp REST API. |
